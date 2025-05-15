@@ -34,19 +34,16 @@ BCA - Bachelor of Computer Application (Computer Science) | Presidency College, 
 
 Infra Transformation Analyst @ Accenture, Bengaluru, India
 
-- Monitored and optimized job flows across multiple platforms.
-
-- Specialized in troubleshooting failures and ensuring job automation.
-
-- Worked with vendors for software support and customization.
-
-- Infra Transformation Associate @ Accenture, Bengaluru, India
-
-- Managed workloads using AutoSys, ServiceNow, and WCC.
-
-- Performed root cause analysis and coordinated with application owners.
-
-- Resolved high-priority server and agent connectivity issues.
+-	Managed job flows across 12+ LPARs, reducing failures by 15% through proactive monitoring.
+-	Automated job execution and log analysis using Putty and Unix shell scripting, improving turnaround by 20%.
+-	Executed JCL jobs via Rumba, CA7, and CA711 in line with SLA and audit standards.
+-	Resolved critical job issues in collaboration with vendors, ensuring minimal downtime.
+-	Led weekly performance reviews to optimize workload consumption.
+-	Supported 500+ daily jobs via AutoSys across multiple platforms, maintaining 98% SLA compliance.
+-	Diagnosed job failures using Putty, implemented fixes that cut recurring issues by 25%.
+-	Managed incidents via ServiceNow, escalating AS400 alerts and ensuring swift resolution.
+-	Developed Unix scripts to automate monitoring and reduce manual workload by 30%.
+-	Coordinated with Application Owners to prevent repeat failures, improve system stability and for data management.
 
 
 🏆 Certifications & Achievements
