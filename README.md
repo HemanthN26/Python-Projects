@@ -1,11 +1,11 @@
 Hi there! 👋 Welcome to my GitHub Profile
 
-🚀 About Me
+About Me
 
 I am a Python Developer with expertise in programming, scripting, and automation. With a background in Production/Application Support, I have experience in managing job flows, troubleshooting failures, and working with Git, GitHub, and automation tools. Passionate about problem-solving and optimizing workflows, I continuously explore new technologies and improve my skill set.
 
 
-🔧 Technical Skills
+Technical Skills
 
 
 - Programming & Scripting: Python, Java, UNIX Shell Scripting
@@ -21,7 +21,7 @@ I am a Python Developer with expertise in programming, scripting, and automation
 - Tools & Platforms: Jira, Rumba, Putty, Apache NetBeans, Obsidian
 
 
-📚 Education
+Education
 
 
 MSc – Digital Engineering | Otto-von-Guericke-University, Magdeburg, Germany
@@ -29,7 +29,7 @@ MSc – Digital Engineering | Otto-von-Guericke-University, Magdeburg, Germany
 BCA - Bachelor of Computer Application (Computer Science) | Presidency College, Bengaluru, KA
 
 
-💼 Work Experience
+Work Experience
 
 
 Infra Transformation Analyst @ Accenture, Bengaluru, India
@@ -46,7 +46,7 @@ Infra Transformation Analyst @ Accenture, Bengaluru, India
 -	Coordinated with Application Owners to prevent repeat failures, improve system stability and for data management.
 
 
-🏆 Certifications & Achievements
+Certifications & Achievements
 
 
 - Git & GitHub Certification – Udemy (2025)
@@ -94,7 +94,7 @@ Team Size: 1
 Technology Used: HTML, CSS, JavaScript, PHP, MySQL
 
 
-📫 Let's Connect!
+Let's Connect!
 
 GitHub: [https://github.com/HemanthN26/Hemanth-Nagaraj]
 
