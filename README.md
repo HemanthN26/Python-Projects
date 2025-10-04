@@ -1,106 +1,92 @@
-Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 
 
-About Me
+I’m **Hemanth Nagaraj**, an MSc Digital Engineering student at Otto von Guericke University Magdeburg.  
+Passionate about **Python, AI, automation, and software development**, I love building projects that solve real world problems — from AI pipelines to web and desktop applications.
 
-I am a Python Developer with expertise in programming, scripting, and automation. With a background in Production/Application Support, I have experience in managing job flows, troubleshooting failures, and working with Git, GitHub, and automation tools. Passionate about problem-solving and optimizing workflows, I continuously explore new technologies and improve my skill set.
+---
 
+## 🛠 Technical Skills
 
-Technical Skills
+**Languages & Frameworks:** Python, JavaScript, HTML, CSS, PHP, Flask  
+**Databases:** MySQL, Oracle  
+**Automation & Tools:** AutoSys, ServiceNow, Unix Scripting, CA7/CA711, Docker  
+**Platforms & OS:** Linux, Windows, LPARs, AS400  
+**Version Control & Collaboration:** Git, GitHub, Jira, Obsidian  
+**Other Interests:** Cloud technologies, AI, Data Engineering, Software Development
 
+---
 
-- Programming & Scripting: Python, Java, UNIX Shell Scripting
+##  Professional Experience
 
-- Web Development: HTML, CSS, JavaScript, PHP
+**Infra Transformation Analyst | Accenture, Bengaluru, India**  
+*Oct 2023 – Present / Nov 2021 – Sep 2023*  
+- Managed 500+ daily jobs across multiple platforms, achieving **98% SLA compliance**.  
+- Automated job monitoring and log analysis with Unix scripts, **reducing manual workload by 30%**.  
+- Diagnosed critical job failures and collaborated with vendors & application owners, **cutting recurring issues by 25%**.  
+- Conducted performance reviews and reports to optimize workflow efficiency.  
 
-- Database Management: MySQL, Oracle Database 11g
+**Infra Transformation Associate | Accenture, Bengaluru, India**  
+- Supported complex workloads in Unix & Windows environments using CA Technologies, AutoSys, ServiceNow, WCC.  
+- Validated alerts, resolved high priority incidents, and coordinated with application owners for stability improvements.  
+- Gained experience in **system monitoring, automation, and cross-platform support**.
 
-- IT Operations & Automation: AutoSys, ServiceNow, WCC, CA7 / CA711, AS400, LPARs, PCG
+---
 
-- Version Control: Git, GitHub
+##  Projects
 
-- Tools & Platforms: Jira, Rumba, Putty, Apache NetBeans, Obsidian
+**Flask Web App – [Project Name]**
+- Developed a **Python Flask application** with backend logic and database integration.  
+- Implemented CRUD functionality and RESTful endpoints, showcasing **web development and Python skills**.  
+- Tech: Python, Flask, MySQL/SQLite, HTML/CSS, JavaScript  
 
+**AudioStegoÆ – Audio Steganography Detection** 
+- Built an AI system to detect steganography in audio using **Python, PyTorch, TensorFlow, and Librosa**.  
+- Developed pipelines for **feature extraction, model training, and evaluation** using Docker.  
+- Tech: Python, CNNs, Spectrograms, MFCC, Docker
+  
+**HCAT – UX Knowledge Repository**  
+- Built a structured knowledge repository in **Obsidian** for UX researchers using the Human-Centred Design (HCD) process.  
+- Team Size: 5 | Tech: Jira, Google Docs, Obsidian  
 
-Education
+**Loosen Up – Anxiety Relief Desktop App**  
+- Developed a **Java based desktop application** with Oracle DB for mental health support.  
+- Team Size: 3 | Tech: Java, SQL  
 
+**FramLand – Farmer Assistance Web App**  
+- Created an interactive web app to help farmers using **HTML, CSS, JavaScript, PHP, MySQL**.  
+- Solo project | Tech: HTML, CSS, JavaScript, PHP, MySQL 
 
-MSc – Digital Engineering | Otto-von-Guericke-University, Magdeburg, Germany
+---
 
-BCA - Bachelor of Computer Application (Computer Science) | Presidency College, Bengaluru, KA
+## Education
 
+- **MSc Digital Engineering** | Otto von Guericke University Magdeburg, Germany  
+- **BCA – Computer Science** | Presidency College, Bengaluru, India  
 
-Work Experience
+---
 
+##  Certifications & Achievements
 
-Infra Transformation Analyst @ Accenture, Bengaluru, India
-
--	Managed job flows across 12+ LPARs, reducing failures by 15% through proactive monitoring.
--	Automated job execution and log analysis using Putty and Unix shell scripting, improving turnaround by 20%.
--	Executed JCL jobs via Rumba, CA7, and CA711 in line with SLA and audit standards.
--	Resolved critical job issues in collaboration with vendors, ensuring minimal downtime.
--	Led weekly performance reviews to optimize workload consumption.
--	Supported 500+ daily jobs via AutoSys across multiple platforms, maintaining 98% SLA compliance.
--	Diagnosed job failures using Putty, implemented fixes that cut recurring issues by 25%.
--	Managed incidents via ServiceNow, escalating AS400 alerts and ensuring swift resolution.
--	Developed Unix scripts to automate monitoring and reduce manual workload by 30%.
--	Coordinated with Application Owners to prevent repeat failures, improve system stability and for data management.
-
-
-Certifications & Achievements
-
-
-- Git & GitHub Certification – Udemy (2025)
-
-- Tech Expressway Program Certification @ Accenture
-
-- Accenture ACE Award Q3 FY'22 – Individual Category
-
-- Java Tutorial Certification (SoloLearn)
-
+- Git & GitHub Certification – Udemy (2025)  
+- Tech Expressway Program Certification @ Accenture  
+- Accenture ACE Award Q3 FY'22 – Individual Category  
+- Java Tutorial Certification (SoloLearn)  
 - Excellence in Sports Award (2018-2021)
 
+---
 
-🛠 Projects
+##  Currently Learning
 
+- Python ML & AI projects (PyTorch, TensorFlow)  
+- Cloud & containerization (Docker, Kubernetes)  
+- Data pipelines & automation
 
--> HCAT – Master’s Project
+---
 
-Developed a structured knowledge repository in Obsidian for UX researchers.
+##  Let’s Connect
 
-Applied Human-Centred Design (HCD) process for international students using public transport in Germany.
+[GitHub](https://github.com/HemanthN26/Hemanth-Nagaraj) | [LinkedIn](https://www.linkedin.com/in/hemanthnagaraj26) | mrhemanthn@gmail.com
 
-Technologies: Jira, Google Docs, Obsidian
+---
 
-Team Size: 5
-
-
--> Loosen Up – Anxiety Relief Desktop Application
-
-Developed a Java-based desktop application using Apache NetBeans 12.0 IDE and Oracle Database 11g.
-
-Team Size: 3
-
-Technology Used: Java, SQL
-
-
--> FramLand – Farmer Assistance Web Application
-
-Created a visually appealing web app using HTML, CSS, JavaScript.
-
-Used MySQL for database design and PHP for backend connectivity.
-
-Team Size: 1
-
-Technology Used: HTML, CSS, JavaScript, PHP, MySQL
-
-
-Let's Connect!
-
-GitHub: [https://github.com/HemanthN26/Hemanth-Nagaraj]
-
-LinkedIn: [www.linkedin.com/in/hemanthnagaraj26]
-
-Email: [mrhemanthn@gmail.com]
-
-Thanks for stopping by! Happy Coding! 😊
-
+*Thanks for stopping by! Happy coding! 😊*
